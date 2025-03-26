@@ -2,6 +2,7 @@
 
 - [Control Flow](./Control%20Flow.ipynb) - условные операторы
 - [Lists](./Lists.ipynb) - списки
+    - [Zip Function](./Zip%20Function.ipynb)
 - [Tuples](./Tuples.ipynb)
 - Loops - циклы
 - Modules - модули
